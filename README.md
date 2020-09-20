@@ -23,15 +23,23 @@ from any folder as per user.
 delivered straight to their desktop application to help them stay updated.  
 
 Modules Preview:  
-
+1. Startup Window
 ![](img/startupfolderselection.png)
+2.Home Gallery
 ![](img/home.png)
+3.adding folders containing images
 ![](img/addfolder.png)
+4.sorted faces
 ![](img/sortedbyfaces.png)
-![](img/photos%20as%20per%20faces.png)
-![](img/)
-![](img/)
-![](img/)
+5.groupe of images as per face selected
+![](img/photosasperfaces.png)
+6.enter name of face
+![](img/changename.png)
+7.export images of selected face to drive
+![](img/exportbutton.png)
+![](img/exportinfo.png)
+8.exported selected face images
+![](img/exportedinfolder.png)
 
 
 
