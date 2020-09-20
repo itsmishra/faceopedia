@@ -24,7 +24,14 @@ delivered straight to their desktop application to help them stay updated.
 
 Modules Preview:  
 
-
+![](img/startupfolderselection.png)
+![](img/home.png)
+![](img/addfolder.png)
+![](img/sortedbyfaces.png)
+![](img/photos%20as%20per%20faces.png)
+![](img/)
+![](img/)
+![](img/)
 
 
 
